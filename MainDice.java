@@ -22,3 +22,6 @@ public class MainDice
 		
 	}
 }
+
+
+// Need to ask users the number of dices and number of throw, please.
